@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-FF6D00?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=FF6D00)
 ---
 
-**SweetiePrompt** é um script simples para customizar o Termux com ZSH e visual moderno.
+**Sweetie** é um script simples para customizar o Termux com ZSH e visual moderno.
 
 ## Estilo visual do Termux-Style
 
@@ -32,7 +32,7 @@ bash main.sh
 > Reinicie o Termux após a instalação.
 
 ## Preview
-![](https://raw.githubusercontent.com/v0ic32/SweetiePrompt-Termux/refs/heads/main/Imagem/Screenshot_2025-05-05-00-15-27-131.png)
+![](https://raw.githubusercontent.com/v0ic32/Sweetie-Termux/refs/heads/main/Imagem/Screenshot_2025-05-05-00-15-27-131.png)
 
 
 ## Licença
