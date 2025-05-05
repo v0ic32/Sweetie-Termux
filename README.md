@@ -32,7 +32,7 @@ bash main.sh
 > Reinicie o Termux após a instalação.
 
 ## Preview
-![](https://raw.githubusercontent.com/v0ic32/Sweetie-Termux/refs/heads/main/Imagem/Screenshot_2025-05-05-00-15-27-131.png)
+![](https://raw.githubusercontent.com/v0ic32/SweetiePrompt-Termux/refs/heads/main/Imagem/Screenshot_2025-05-05-00-15-27-131.png)
 
 
 ## Licença
