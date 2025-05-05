@@ -1,4 +1,4 @@
-# SweetiePrompt
+# Sweetie
 
 ![ZSH Shell](https://img.shields.io/badge/ZSH%20Shell-Power%20Terminal-00C853?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=00C853)
 ![GitHub Automation](https://img.shields.io/badge/GitHub%20Automation-Workflow-6200EA?style=for-the-badge&logo=github&logoColor=white&labelColor=6200EA)
